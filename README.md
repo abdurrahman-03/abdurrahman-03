@@ -42,6 +42,8 @@ I'm passionate about Artificial Intelligence, Machine Learning, and Data Analysi
 <img align="left" alt="Express.js" width="28px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"/>
 <img align="left" alt="Docker" width="28px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
 <img align="left" alt="Unity" width="28px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg"/>
+<img align="left" alt="LaTeX" width="28px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg"/>
+<img align="left" alt="Trello" width="28px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-original.svg"/>
 <br/>
 
 <span style="font-size:14px; font-weight:300;">Version Control & OS:</span>  
@@ -60,8 +62,8 @@ YOLOv11-powered retail shelf monitoring system with edge–cloud deployment usin
 🔹 **[GA-MAZE – AI Game with Genetic Algorithms]()**  
 Dynamic Unity game featuring AI opponents powered by Genetic Algorithms + A* pathfinding. Includes multiplayer sync, destructible environments & teleportation mechanics.  
 
-🔹 **[CNN Architecture Benchmarking]()**  
-Compared ResNet-50 vs EfficientNet-B0 on ImageNet dataset. Evaluated training loss, accuracy & computational efficiency.
+🔹 **[Predictive Modeling for Container Logistics (DP World)]()**  
+Built ML models (Random Forest, Regression, KNN) to forecast container volumes with **93% classification accuracy** on 5,000+ record dataset.  
 
 👉 Check my repos for more cool projects!
 
