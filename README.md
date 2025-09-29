@@ -52,7 +52,7 @@ I'm passionate about Artificial Intelligence, Machine Learning, and Data Analysi
 
 ---
 
-## 👷‍♂️  Featured Projects
+## 👷‍♂️  My Projects
 
 🔹 **[Retail Shelf AI (L’Oréal Collaboration)]()**  
 YOLOv11-powered retail shelf monitoring system with edge–cloud deployment using NVIDIA Jetson + AWS. Achieved **85% mAP@0.5** with real-time inference.  
