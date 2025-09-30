@@ -62,7 +62,7 @@ YOLOv11-powered retail shelf monitoring system with edge–cloud deployment usin
 🔹 **[GA-MAZE – AI Game with Genetic Algorithms]()**  
 Dynamic Unity game featuring AI opponents powered by Genetic Algorithms + A* pathfinding. Includes multiplayer sync, destructible environments & teleportation mechanics.  
 
-🔹 **[Predictive Modeling for Container Logistics (DP World)]()**  
+🔹 **[Predictive Modeling for Container Logistics (DP World)](https://github.com/abdurrahman-03/Predictive-Modeling-for-Container-Logistics-DP-World-)**  
 Built ML models (Random Forest, Regression, KNN) to forecast container volumes with **93% classification accuracy** on 5,000+ record dataset.  
 
 👉 Check my repos for more cool projects!
