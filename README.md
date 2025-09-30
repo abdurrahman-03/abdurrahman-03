@@ -44,6 +44,7 @@ I'm passionate about Artificial Intelligence, Machine Learning, and Data Analysi
 <img align="left" alt="Unity" width="28px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg"/>
 <img align="left" alt="LaTeX" width="28px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg"/>
 <img align="left" alt="Trello" width="28px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-original.svg"/>
+<img align="left" alt="Jupyter" width="28px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg"/>
 <br/>
 
 <span style="font-size:14px; font-weight:300;">Version Control & OS:</span>  
