@@ -56,10 +56,10 @@ I'm passionate about Artificial Intelligence, Machine Learning, and Data Analysi
 
 ## 👷‍♂️  My Projects
 
-🔹 **[Retail Shelf AI (L’Oréal Collaboration)]()**  
+🔹 **Retail Shelf AI (L’Oréal Collaboration)**  
 YOLOv11-powered retail shelf monitoring system with edge–cloud deployment using NVIDIA Jetson + AWS. Achieved **85% mAP@0.5** with real-time inference.  
 
-🔹 **[GA-MAZE – AI Game with Genetic Algorithms]()**  
+🔹 **GA-MAZE – AI Game with Genetic Algorithms**  
 Dynamic Unity game featuring AI opponents powered by Genetic Algorithms + A* pathfinding. Includes multiplayer sync, destructible environments & teleportation mechanics.  
 
 🔹 **[Predictive Modeling for Container Logistics (DP World)](https://github.com/abdurrahman-03/Predictive-Modeling-for-Container-Logistics-DP-World-)**  
